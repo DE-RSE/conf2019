@@ -1,8 +1,8 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
 baseurl:
-title: de-RSE.org
-author: Stephan Druskat
-email: mail [at] sdruskat [dot]
+title: deRSE19
+author: de-RSE e.V. - Gesellschaft für Forschungssoftware
+email: vorstand [at] de-rse [dot] org
 description: Website of de-RSE e.V. - Gesellschaft für Forschungssoftware
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

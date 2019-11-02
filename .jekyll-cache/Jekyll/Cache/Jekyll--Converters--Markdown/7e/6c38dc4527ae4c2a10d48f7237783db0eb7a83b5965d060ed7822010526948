@@ -1,0 +1,366 @@
+I"�7<h1 id="programme">Programme</h1>
+
+<p>deRSE19 has run from 4 to 6 June 2019. Below is a static version of the conference programme, with links to videos and slides where they exist.</p>
+
+<p>The original programme schedule is <a href="https://derse19.uni-jena.de/derse19/schedule">here</a>.</p>
+
+<blockquote>
+  <p>🎥 A video recording is available.<br />
+🖥 Slides (or other documents) are available.</p>
+</blockquote>
+
+<h1 id="4-june-2019">4 June 2019</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Opening session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/BUKLJF/">Welcome to deRSE19</a></td>
+    </tr>
+    <tr>
+      <td><a href="talk/M9JJH7/">deRSE19 &amp; de-RSE e.V. - Society for Research Software</a><br />🎥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/3ZBVAN/">Welcome from the Gesellschaft für Informatik (GI)</a><br />🎥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/DXV7GX/">Welcome from AWI</a><br />🎥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/GVZRZB/">Welcome from PIK</a><br />🎥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/EZZGWC/">Welcome from GFZ</a><br />🎥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/ZD3B3K/">Keynote: RSEs together - building networks, groups, organisations and careers</a><br />🎥 🖥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/PCQSRY/">Keynote: Building a Future with AI</a><br />🎥</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Testing Research Software</th>
+      <th>Sustainable long-living Software I</th>
+      <th>Community Building</th>
+      <th>Workshops</th>
+      <th>Workshops</th>
+      <th>Workshops</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/VYX8TW/">Challenges for Verifying and Validating Scientific Software in Computational Materials Science</a></td>
+      <td><a href="talk/VPPA77/">Lebensverlängernde Maßnahmen für Fortran-Codes</a><br />🎥</td>
+      <td><a href="talk/KWUFQW/">Building research software communities</a><br />🎥</td>
+      <td><a href="talk/FSP7QH/">Jupyter: Interactive visualizations in Python and C++</a></td>
+      <td><a href="talk/WWMELC/">Developing for the Cloud - Azure Notebook, DevOps, Cognitive Services, VM and DataBricks</a></td>
+      <td><a href="talk/9XGBBH/">Libraries (the brick and mortar type) for Research Software &amp; Engineers</a></td>
+    </tr>
+    <tr>
+      <td><a href="talk/MNQFUV/">The Quest For Better Tests In Scientific Computing</a><br />🎥</td>
+      <td><a href="talk/GXSUFU/">Entwicklung der Forschungssoftware RCE im DLR</a><br />🎥 🖥</td>
+      <td><a href="talk/D7DCP8/">Building scientific communities - Lessons learned with AIRR</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/TZFTBE/">Decentralized software development facilitating CI/CD to produce high quality, open-source code in a European metrological joint research project</a><br />🎥 🖥</td>
+      <td><a href="talk/UFWKT3/">Softwareentwicklung zwischen Forschungscode und Industriereleases</a><br />🎥</td>
+      <td><a href="talk/MMLFWX/">Building a healthy and vibrant volunteer driven community: The Bio-IT project</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td><a href="talk/RYQN3Y/">Help me help you</a><br />🎥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Software Quality Management</th>
+      <th>Sustainable long-living Software II</th>
+      <th>Institutional RSE Communities I</th>
+      <th>Workshops</th>
+      <th>Workshops</th>
+      <th>Workshops</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/TF8EKE/">The art of giving and receiving code reviews</a><br />🎥 🖥</td>
+      <td><a href="talk/78JDY7/">Die Hard 1.1024.0: backward compatibility of a search engine with persistant IDs</a><br />🎥 🖥</td>
+      <td><a href="talk/SVW9DD/">“HIFIS Software Services“, das Competence Cluster für eine nachhaltige Softwareentwicklung in der Helmholtz-Gemeinschaft</a><br />🎥 🖥</td>
+      <td><a href="talk/8LC97B/">Agiles Software Engineering für lokale Teams mit Scrum, eine Einführung</a></td>
+      <td><a href="talk/XAMSLD/">Frauen in der Entwicklung von Forschungssoftware</a></td>
+      <td><a href="talk/URQ7X3/">Restructuring Scientific Software using Semantic Patching with Coccinelle</a><br />🖥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/MDKJ9D/">Develop, License, Test, Curate - Mathematical Optimization In The Real World</a><br />🎥 🖥</td>
+      <td><a href="talk/FAKFHV/">Challenges and Opportunities of Open-Source Software: the case of SU2</a><br />🎥 🖥</td>
+      <td><a href="talk/K9JEM7/">Rahmenbedingungen für einen nachhaltigen Umgang mit Forschungssoftware am Helmholtz-Zentrum Potsdam - Deutsches GeoForschungsZentrum GFZ</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/KVREQV/">GitLab pipelines for every need: testing, documentation, and writing a paper</a><br />🎥 🖥</td>
+      <td><a href="talk/YKUSYM/">New Approaches towards User Research and Software Architecture in Research Software Engineering: A Humanities Example</a><br />🎥</td>
+      <td><a href="talk/FMHV8M/">Eine virtuelle Werkstatt für die Digitalisierung in den Wissenschaften</a><br />🎥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="5-june-2019">5 June 2019</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Opening session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/ZCYXEM/">Keynote: Sustainable Research Software – as Code, as Paper, as Book</a></td>
+    </tr>
+    <tr>
+      <td><a href="talk/CQ7KEC/">Keynote: Delivering on the promise of Research Computing</a><br />🎥</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Software Engineering Productivity</th>
+      <th>Reproducibility I</th>
+      <th>Research Data Management</th>
+      <th>Workshops</th>
+      <th>BoFs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/NFAVXV/">Optimizing Developer Productivity in Endangered Language Documentation Apps</a></td>
+      <td><a href="talk/7LLTCN/">Curious Containers: Framework zur Reproduzierbarkeit von digitalen Experimenten</a><br />🎥 🖥</td>
+      <td><a href="talk/RXPHHP/">Evaluation of the semantic research data management system CaosDB in glaciology</a><br />🎥 🖥</td>
+      <td><a href="talk/PVEXDH/">Herausforderungen für die nachhaltige Entwicklung, Bereitstellung und Pflege von Forschungssoftware in Deutschland</a><br />🖥</td>
+      <td><a href="talk/S8T8HW/">FAIR Software</a><br />🖥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/NKP9AH/">ediarum - from bottom-up to generic programming</a><br />🎥 🖥</td>
+      <td><a href="talk/EKPHXX/">Portable Container zum Entwickeln, Erstellen, Verteilen und Ausführen von komplexer wissenschaftlicher Software</a><br />🎥</td>
+      <td><a href="talk/3UTPZN/">How to save a scientist’s career with data classes</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/JSCVWP/">Debian Astro - A “Debian Pure Blend” for Astronomy and Astrophysics</a><br />🎥 🖥</td>
+      <td><a href="talk/WQXWWR/">Integrierte Entwicklungs- und Publikationsumgebung für Forschungssoftware und Daten am Helmholtz-Zentrum Dresden-Rossendorf (HZDR)</a><br />🎥 🖥</td>
+      <td><a href="talk/KAHXYP/">Linking biological data using data science and cross-disciplinary software development</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td><a href="talk/ALTSUB/">Against Schematisation – Mapping the Choreographic Vector Space</a><br />🎥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Research Software Frameworks</th>
+      <th>Reproducibility II</th>
+      <th>Institutional RSE Communities II</th>
+      <th>Workshops</th>
+      <th>BoFs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/3N7FJP/">Automated Deadline-Based Scaling of Experiments in the Cloud with MiCADO</a><br />🎥 🖥</td>
+      <td><a href="talk/7RWN7Y/">Data mining made easy, reproducible and open-source</a><br />🎥 🖥</td>
+      <td><a href="talk/HDSNMP/">Kollaborationsmodelle für Softwareentwicklung an der HU</a></td>
+      <td><a href="talk/PVEXDH/">Herausforderungen für die nachhaltige Entwicklung, Bereitstellung und Pflege von Forschungssoftware in Deutschland (cont.)</a><br />🖥</td>
+      <td><a href="talk/WUCYDR/">GitLab selbst betreiben: Wie sind die Erfahrungen? Wie ermöglichen wir Kooperation mit Externen?</a></td>
+    </tr>
+    <tr>
+      <td><a href="talk/AAVTZY/">Parallel-in-Time integration with PFASST: from prototyping to applications</a><br />🎥 🖥</td>
+      <td><a href="talk/JPAVB9/">Reproducibility of Particle-In-Cell Simulations in Plasma Physics</a></td>
+      <td><a href="talk/KASRSJ/">Empfehlungen für bessere Forschungssoftware</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/ETRNMR/">Software for autonomous astronomical observatories</a><br />🎥</td>
+      <td><a href="talk/WB9Z9C/">Common Workflow Language (CWL)-based software pipeline for de novo genome assembly from long- and short-read data</a><br />🖥</td>
+      <td><a href="talk/YUY3FT/">Zwischen Digital und Humanities</a><br />🎥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/RHRXEM/">xtensor: A n-dimensional container for C++</a><br />🎥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/CBYUMJ/">Generation of a wrapper library for MPI - MeDiPack</a><br />🎥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Experience with Simulation Software</th>
+      <th>Towards Open Research Software</th>
+      <th>Splinter meetings</th>
+      <th>Splinter meetings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/WDLWEB/">Insight Earth System Models</a></td>
+      <td><a href="talk/UJRJKT/">Von Closed zu Open Source</a><br />🎥 🖥</td>
+      <td><a href="talk/GGVMDV/">RSE4NFDI – Nachhaltigkeit von Forschungssoftware in der nationalen Forschungsdateninfrastruktur (NFDI) Deutschland</a></td>
+      <td><a href="talk/LQDSZW/">Anforderungen, Wünsche und Erfahrungen für den Aufbau des HIFIS Competence Clusters „Software Services“ in der Helmholtz-Gemeinschaft</a></td>
+    </tr>
+    <tr>
+      <td><a href="talk/PX89AP/">PALM – a story of developing and maintaining a scientific model system</a><br />🎥</td>
+      <td><a href="talk/9REBTF/">Forschungssoftware als digitale Ressource erhalten</a><br />🎥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/PGKUVS/">How to build a modern particle based CFD framework for both - Industry and Science</a></td>
+      <td><a href="talk/7RPXZR/">Neukonzeption des DLR Software-Katalogs</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/9GHU9G/">ESM-TOOLS: A Software Tool for Earth System Modelling Scientists</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Poster session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/H9RMNX/">Poster Lightning Talks</a><br />🎥</td>
+    </tr>
+    <tr>
+      <td><a href="talk/7E8MEA/">Poster Session &amp; Geo BoF</a><br />🖥</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="6-june-2019">6 June 2019</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>User Interfaces</th>
+      <th>Communication and Outreach</th>
+      <th>Workshops</th>
+      <th>BoFs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/BEJ88P/">GUI-Architektur für interaktive Datenanalyse</a><br />🎥 🖥</td>
+      <td><a href="talk/9WDH39/">The Research Software Engineering Landscape in Germany</a><br />🎥</td>
+      <td><a href="talk/KZX8VD/">Entwicklung von Policies und Richtlinien für Forschungssoftware</a></td>
+      <td><a href="talk/CH7TTH/">Organisation von lokalen und regionalen RSE Chapters</a></td>
+    </tr>
+    <tr>
+      <td><a href="talk/8LTN8W/">NICOS - ein Steuerungsframework für Großforschungsgeräte</a><br />🎥</td>
+      <td><a href="talk/NJSQBN/">RSE 2.0</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="talk/DFE7YK/">Umsetzung effizienter plattformunabhängiger App-Entwicklung in einer bestehenden Forschungssoftware-Landschaft</a><br />🎥</td>
+      <td><a href="talk/PHNATV/">Research Software Network for the Digital Humanities</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a href="talk/MQCZ3N/">Development of research software at DLR - role and status in practice</a><br />🎥 🖥</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Panels</th>
+      <th>Workshops</th>
+      <th>BoFs</th>
+      <th>Workshops</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/DS97LW/">Paneldiskussion “Nachhaltigkeit von Forschungssoftware in Deutschland” (in German)</a></td>
+      <td><a href="talk/KZX8VD/">Entwicklung von Policies und Richtlinien für Forschungssoftware (cont.)</a></td>
+      <td><a href="talk/3NMQJM/">Organisations- und Projektmanagementmetoden in Forschungssoftwareentwicklungsprojekten</a></td>
+      <td><a href="talk/J7RUXT/">Cost Effective Research Leveraging AWS Spot</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Closing Session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="talk/WGEJMA/">Closing Session</a><br />🎥</td>
+    </tr>
+  </tbody>
+</table>
+:ET

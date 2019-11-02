@@ -1,0 +1,9 @@
+I"¡<h1 id="common-workflow-language-cwl-based-software-pipeline-for-de-novo-genome-assembly-from-long--and-short-read-data">Common Workflow Language (CWL)-based software pipeline for de novo genome assembly from long- and short-read data</h1>
+
+<h2 id="pasi-korhonen"><a href="../../speaker/8FU7AH/">Pasi Korhonen</a></h2>
+
+<p>For reliable gene prediction and post-genomic analyses, reference quality genome assemblies are essential. Here, we created an automated pipeline for the de novo-assembly of genomes from PacBio long-read and Illumina short-read data using common workflow language (CWL). This pipeline integrates and enables an automated installation and execution of a host of software tools, overcomes the challenges of achieving repeatability and reproducibility of assembly results, and offers a platform for the re-use of the workflow and the integration of diverse data sets. We achieved assemblies that meet the high standards set by the National Human Genome Research Institute (NHGRI), to underpin accurate gene predictions and expanded genomic analyses.</p>
+
+<p>ðŸ–¥ <strong>There is a <a href="slides.pdf">PDF file with the slides</a> for this talk available.</strong> Unless otherwise noted in the slides themselves, they are published under a <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC BY 3.0</a> license.<br />
+<img src="https://licensebuttons.net/l/by/3.0/80x15.png" alt="CC BY 3.0 badge" /></p>
+:ET

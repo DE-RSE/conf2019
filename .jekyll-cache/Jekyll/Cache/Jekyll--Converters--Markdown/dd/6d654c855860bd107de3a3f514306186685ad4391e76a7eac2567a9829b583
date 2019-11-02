@@ -1,0 +1,11 @@
+I"�<h1 id="entwicklung-der-forschungssoftware-rce-im-dlr">Entwicklung der Forschungssoftware RCE im DLR</h1>
+
+<h2 id="brigitte-boden-robert-mischke"><a href="../../speaker/87C883/">Brigitte Boden</a>, <a href="../../speaker/8TKKSV/">Robert Mischke</a></h2>
+
+<p>RCE (Remote Component Environment) ist eine verteilte Integrationsumgebung, die im DLR entwickelt und von Forschern innerhalb und außerhalb des DLR genutzt wird.  RCE ermöglicht das Einbinden und Freigeben von Simulationswerkzeugen, die über ein Netzwerk gemeinsam genutzt und zu automatisierten Workflows kombiniert werden können. Ein typisches Anwendungsgebiet ist hierbei die multidisziplinäre Optimierung z.B. von Flugzeugentwürfen.  RCE ist Open Source und wird in Forschungsprojekten in Zusammenarbeit mit Nutzern weiterentwickelt. In diesem Vortrag zeigen wir, wie wir RCE im Team entwickeln und welche besonderen Herausforderungen die Entwicklung einer Produktivsoftware im Forschungskontext mit sich bringt.</p>
+
+<p>🎥 <strong>This talk was recorded on video and is available at <a href="https://doi.org/10.5446/42483">https://doi.org/10.5446/42483</a>.</strong></p>
+
+<p>🖥 <strong>There is a <a href="slides.pdf">PDF file with the slides</a> for this talk available.</strong> Unless otherwise noted in the slides themselves, they are published under a <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC BY 3.0</a> license.<br />
+<img src="https://licensebuttons.net/l/by/3.0/80x15.png" alt="CC BY 3.0 badge" /></p>
+:ET

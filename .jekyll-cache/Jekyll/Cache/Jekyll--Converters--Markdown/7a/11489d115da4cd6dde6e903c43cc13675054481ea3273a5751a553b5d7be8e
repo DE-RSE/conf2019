@@ -1,0 +1,11 @@
+I"C<h1 id="gitlab-pipelines-for-every-need-testing-documentation-and-writing-a-paper">GitLab pipelines for every need: testing, documentation, and writing a paper</h1>
+
+<h2 id="debsankha-manik"><a href="../../speaker/RRGRLK/">Debsankha Manik</a></h2>
+
+<p>Continuous integration/delivery (CI/CD) pipelines are easily available: it’s bundled with GitLab, for example. They can be used for various purposes: automatically testing a codebase on every commit, building and deploying a package and many more. Using CI/CD pipelines have greatly improved workflows in a few of my projects. Based on these experiences, I would demonstrate a few use cases for CI/CD pipelines: (a) automated unittesting in a python software project, (b) scheduled integration tests, (c) automatically generating PDF manuscripts from LaTeX source.</p>
+
+<p>🎥 <strong>This talk was recorded on video and is available at <a href="https://doi.org/10.5446/42490">https://doi.org/10.5446/42490</a>.</strong></p>
+
+<p>🖥 <strong>There is a <a href="slides.pdf">PDF file with the slides</a> for this talk available.</strong> Unless otherwise noted in the slides themselves, they are published under a <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC BY 3.0</a> license.<br />
+<img src="https://licensebuttons.net/l/by/3.0/80x15.png" alt="CC BY 3.0 badge" /></p>
+:ET

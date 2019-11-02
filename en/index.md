@@ -1,41 +1,97 @@
 ---
 layout: default
-title: Research Software Engineers (RSEs) - The people behind research software
+title: "deRSE19"
+weight: 1
 ---
 
-# Research Software Engineers (RSEs) - The people behind research software
+# deRSE19 - Conference for Research Software Engineers in Germany
 
-Software development is an essential, integral part of research activity. 
-Research software increasingly supports the acquisition, processing and analysis of 
-empirical data, but also the modeling and the simulation of complex processes. Thus, 
-software has a significant influence on the quality of research results. The British 
-Software Sustainability Institute (SSI) has coined the slogan "Better Software - Better Research".
 
-However, the current approaches to research software as well as the recognition of research software engineering do not 
-adequately reflect the importance of this work in and for the research process. The reasons for 
-this are manifold and result in a variety of issues, such as: 
+## Facts
 
-- Lack of recognition of research software development as *scientific* contribution;
-- Missing link between research software development and the scientific reputation system;
-- Limited availability and usability of research software;
-- Redundant and parallel software developments;
-- Insufficient skills in software engineering;
-- Lack of quality standards for the development and review of research software;
-- Lack of reproducibility; 
-- Unclear rules for publication with regard to licenses and intellectual property (IP).
+**What:** First Conference for Research Software Engineers in Germany
 
-Researchers, scientists and others developing software in and for research within the 
-German scientific landscape have come together in the de-RSE community in order to considerably
-boost the visibility of these issues, and to decisively improve the current situation. de-RSE aims at 
-constituting a wider initiative for acting jointly on shared objectives, and being 
-the collective spokesperson for RSEs within the German scientific landscape.
+**Start:** 4 June 2019, 1pm
 
-<br/>
+**End:** 6 June 2019, 3pm, de-RSE general assembly until ca. 5:30pm
 
-![](https://www.software.ac.uk/sites/default/files/images/content/BetterSoftwareBetterResearchImage.jpg)
+**Where:** Albert Einstein Science Park in Potsdam
 
-<br/>
+**(Where else?)** Livestreams from two lecture theatres: [Haus H](https://vimeo.com/event/8288), [A56](https://vimeo.com/event/8287), password: `deRSE19` 
 
-Wanna dive into the world of RSE? Find excellent reading materials at the UK RSE website 
-<https://rse.ac.uk/> and the UK SSI website 
-<https://www.software.ac.uk/blog>!
+**Call for Contributions:** Was open until 28 February 2019, 23:59:59 (CET)
+
+**Program:** Current [program](https://derse19.uni-jena.de/derse19/schedule/)
+
+**Registration:** Please register at [deRSE19 Registrierung](https://pretix.derse19.uni-jena.de/de-RSE/2019/)
+
+**Code of Conduct & Diversity Plan**: [See here](code-of-conduct.html)
+
+## Important Dates
+
+Date | Event
+--|--
+Feb 28 (Thu) | End [Call for Contributions](call.html)
+Mar 22 (Fri) | Confirmation / Refusal
+Apr 08 (Mon) | Opening [Registration](https://derse19.uni-jena.de/derse19/schedule/)
+Apr 14 (Sun) | End Early Bird
+Apr 15 (Mon) | Publishing [program]()
+Mai 20 (Mon) | End of registration
+June 04-06 (Tue-Thu) | Conference
+
+## Updates
+
+Register at [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org) to get the latest updates.
+
+## About deRSE19
+
+Following the success of the [first three international Conference of Research Software Engineers in the UK](https://rse.ac.uk/events/past-conferences/), the first international conference in Germany addressing research software and the people behind it within the German research landscape will be held at the Albert Einstein Science Park in Potsdam on 4-6 June 2019.
+
+We are expecting a lively mix of 200 attendees from different research domains. The purpose of this national conference is to get together with people who develop software that is used in any field of research. We call these people *Research Software Engineers* (*RSE*s), but they exist under many job titles (from postdoctoral researcher to research associate and faculty).
+
+At \#deRSE19 we welcome domain researchers, but also people who fund, develop, run or maintain research software and may not typically attend conferences. It's a community conference: Get involved and help us build the RSE community in Germany! So save the date, and spread the word to your peers who are in any way involved in software for research.
+
+Contributions in the form of talks (short or long), posters, workshops, and other formal and informal session proposals
+are welcome. All we ask is that you submit a very short (750 character) abstract at <https://derse19.uni-jena.de/derse19/cfp> by 28 February 2019.
+
+Stay in touch and get the latest updates by registering at [konferenz-updates@de-rse.org](https://ml-cgn04.ispgateway.de/mailman/listinfo/konferenz-updates_de-rse.org). Updates about the conference are also available via [@RSE_de on Twitter](https://twitter.com/rse_de). The hashtag for the event is #deRSE19.
+
+If you have any questions about the conference, please contact the conference organisers at [konferenz@de-rse.org](mailto:konferenz@de-rse.org).
+
+
+<table style="width: 100%;">
+	<tr>
+		<td style="vertical-align: top;"><h2 id="veranstalter">Organizer</h2>
+		<p><img src="https://gi.de/fileadmin/GI/Allgemein/Logos/GI.png" alt="GI logo" style="width: 100px;"/></p>
+		<p><a href="http://www.gi.de">Gesellschaft für Informatik e.V. (GI)</a>, <a href="https://fb-swt.gi.de/">Fachbereich Softwaretechnik (SWT)</a></p>
+		<h2 id="mitveranstalter">Co-organizer</h2>
+		<p><img src="{{ '/assets/img/association/logo-grayscale-web.png' | prepend: site.baseurl }}" style="width: 100px;"/></p>
+		<p><a href="http://de-rse.org/de/">de-RSE e.V. - Gesellschaft für Forschungssoftware</a></p>
+		<h2 id="lokale-veranstalter">Local organizers</h2>
+		<p><img src="{{ '/assets/img/conf/awi_logo.svg' | prepend: site.baseurl }}" style="width: 100px;"/></p>
+		<p><a href="https://www.awi.de/ueber-uns/standorte/potsdam/">Forschungsstelle Potsdam des Alfred-Wegener-Instituts (AWI)</a></p>
+		<p><img src="https://www.gfz-potsdam.de/fileadmin/gfz/medien_kommunikation/Infothek/Mediathek/Bilder/GFZ/GFZ_Logo/GFZ-Logo_eng_RGB.svg" alt="gfz logo" style="width: 100px;"/></p>
+		<p><a href="https://www.gfz-potsdam.de/">GFZ German Research Centre for Geosciences</a></p>
+		<p><img src="{{ '/assets/img/conf/pik.png' | prepend: site.baseurl }}" style="width: 100px;"/></p>
+		<p><a href="https://www.pik-potsdam.de/">Potsdam-Institut für Klimafolgenforschung (PIK)</a></p>
+		<h2 id="konferenzkomitee">Organizing committee</h2>
+		<p>Die organisierenden Personen sind auf der <a href="%7B%7B%20site.baseurl%20%7D%7D%7B%%20link%20de/conf2019/contact.md%20%%7D">Kontakt-Seite</a> zu finden.</p>
+		</td>
+
+		<td style="vertical-align: top;"><h2 id="veranstalter">Thank you to our sponsors!</h2>
+		<h3 style="background-color: #e5e4e2; padding: 5px;">Platinum sponsors</h3>
+		<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/microsoft.png' | prepend: site.baseurl }}" alt="Microsoft logo" style="height: 100px;"/></p>
+		<p><a href="https://azure.microsoft.com">Microsoft Deutschland GmbH</a></p>
+		<h3 style="background-color: #FFD700; padding: 5px;">Gold sponsors</h3>
+		<p style="margin-top: 20px; margin-bottom: 20px;"><img src="{{ '/assets/img/conf/sponsors/aws.png' | prepend: site.baseurl }}" alt="Amazon Webs Services logo" style="height: 100px;"/></p>
+		<p><a href="https://aws.amazon.com/">Amazon Web Services</a></p>
+		<h3 style="background-color: #F5F5F5; padding: 5px;">Poster prizes</h3>
+		<p><img src="{{ '/assets/img/conf/sponsors/gitlab.png' | prepend: site.baseurl }}" alt="GitLab logo" style="height: 100px;"/></p>
+		<p><a href="https://about.gitlab.com/just-commit/">GitLab</a></p>
+		<h3 style="background-color: #F5F5F5; padding: 5px;">Travel support</h3>
+		<p><img src="{{ '/assets/img/conf/sponsors/r-consortium.png' | prepend: site.baseurl }}" alt="R Consortium logo" style="height: 100px;"/></p>
+		<p><a href="http://r-consortium.org">R Consortium</a></p>
+		<p><img src="{{ '/assets/img/conf/sponsors/pythonverband.png' | prepend: site.baseurl }}" alt="Python Software Verband e.V." style="height: 80px;"/></p>
+		<p><a href="https://python-verband.org/">Python Software Verband e.V.</a></p></td>
+	</tr>
+</table>

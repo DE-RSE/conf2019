@@ -1,0 +1,6 @@
+I"Ï<h1 id="jupyter-interactive-visualizations-in-python-and-c">Jupyter: Interactive visualizations in Python and C++</h1>
+
+<h2 id="wolf-vollprecht-johan-mabille"><a href="../../speaker/8K8EYT/">Wolf Vollprecht</a>, <a href="../../speaker/QGTSJJ/">Johan Mabille</a></h2>
+
+<p>Project Jupyter has gained steady adoption for interactive computation and visualization in the context of Data Science and Machine Learning. During this workshop we will present   - The Project Jupyter Notebook and the underlying protocol implementation - ipywidgets, the library that enables interactive widgets, from simple buttons &amp; sliders to maps and 3D plots - xeus-cling, the interactive C++ kernel for the Jupyter ecosystem  In the interactive part of the workshop we will walk through creating custom widgets for interactive data visualizations, and gain a deeper understanding of the traitlets protocol, which is used to synchronize data from C++ or Python to the JavaScript frontend.</p>
+:ET

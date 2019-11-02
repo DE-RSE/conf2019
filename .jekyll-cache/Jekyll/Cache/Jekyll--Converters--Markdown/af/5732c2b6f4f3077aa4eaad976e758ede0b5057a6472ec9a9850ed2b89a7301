@@ -1,0 +1,8 @@
+I"X<h1 id="the-quest-for-better-tests-in-scientific-computing">The Quest For Better Tests In Scientific Computing</h1>
+
+<h2 id="rené-fritze"><a href="../../speaker/VSSPN8/">René Fritze</a></h2>
+
+<p>Writing tests for scientific computing software is very hard. The input space for programs can be infinite, therefore selecting “good” or “interesting” inputs is crucial. Time and computing resources to execute tests however are limited, but developers need timely responses to changes. Guidelines to implement tests under these, and likely more, constraints are not readily available in literature. This contribution tells the story of trying to move our Python library pyMOR to property based testing, simplifying the process of writing more meaningful tests with less code and balancing runtime versus impact. We also include a call to action for the community to jointly develop concrete guidelines for designing and implementing unit tests.</p>
+
+<p>🎥 <strong>This talk was recorded on video and is available at <a href="https://doi.org/10.5446/42513">https://doi.org/10.5446/42513</a>.</strong></p>
+:ET

@@ -1,0 +1,12 @@
+I"
+<h1 id="die-hard-110240-backward-compatibility-of-a-search-engine-with-persistant-ids">Die Hard 1.1024.0: backward compatibility of a search engine with persistant IDs</h1>
+
+<h2 id="thomas-krause-stephan-druskat"><a href="../../speaker/KFD3VM/">Thomas Krause</a>, <a href="../../speaker/WQ9MC9/">Stephan Druskat</a></h2>
+
+<p>Semantic versioning can be used to describe the downward compatibility of software. Using the example of a search engine for linguistic annotations, we show which problems can occur when operating a search-based service with persistent IDs for queries and results and present possible solutions. Different components, such as the software, the domain-specific query language, and the web service, provide different guarantees and make different demands on downward compatibility. By migrating an existing PostgreSQL-based system to our own implementation, we gain important practical experience in the downward-compatible modernization of an existing system, which we will share in this talk.</p>
+
+<p>🎥 <strong>This talk was recorded on video and is available at <a href="https://doi.org/10.5446/42501">https://doi.org/10.5446/42501</a>.</strong></p>
+
+<p>🖥 <strong>There is a <a href="slides.pdf">PDF file with the slides</a> for this talk available.</strong> Unless otherwise noted in the slides themselves, they are published under a <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC BY 3.0</a> license.<br />
+<img src="https://licensebuttons.net/l/by/3.0/80x15.png" alt="CC BY 3.0 badge" /></p>
+:ET
