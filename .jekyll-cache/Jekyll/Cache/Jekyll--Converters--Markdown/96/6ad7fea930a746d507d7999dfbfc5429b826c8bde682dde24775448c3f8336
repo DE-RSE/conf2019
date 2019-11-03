@@ -1,8 +1,0 @@
-I"h<h1 id="nicos---ein-steuerungsframework-für-großforschungsgeräte">NICOS - ein Steuerungsframework für Großforschungsgeräte</h1>
-
-<h2 id="georg-brandl"><a href="../../speaker/RZEXJG/">Georg Brandl</a></h2>
-
-<p>Unser Beitrag zeigt ein Framework, mit dem sich wissenschaftliche Experimente steuern lassen.  Am MLZ stellen wir externen Gästen Instrumente zur Verfügung, um verschiedene wissenschaftliche Fragestellungen mit Neutronen zu untersuchen. NICOS bietet ein gemeinsames User-Interface und wiederverwendbare Komponenten, die die Techniken unterstützen. Es wird Python in einer stark angepassten Interpreterumgebung verwendet, um Abläufe zu steuern, Daten und Parameter zu visualisieren, in einer konfigurierbaren Schnittstelle. Auf Hardwareseite unterstützt NICOS die gängigen Middlewaretreiber und eine Plug-and-play-Philosophie mit eigenständigen embedded-Systemen. NICOS wird am MLZ verwendet, sowie am PSI in der Schweiz und der ESS in Schweden.</p>
-
-<p>🎥 <strong>This talk was recorded on video and is available at <a href="https://doi.org/10.5446/42495">https://doi.org/10.5446/42495</a>.</strong></p>
-:ET

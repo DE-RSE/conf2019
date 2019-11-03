@@ -1,8 +1,0 @@
-I"R<h1 id="xtensor-a-n-dimensional-container-for-c">xtensor: A n-dimensional container for C++</h1>
-
-<h2 id="wolf-vollprecht-johan-mabille"><a href="../../speaker/8K8EYT/">Wolf Vollprecht</a>, <a href="../../speaker/QGTSJJ/">Johan Mabille</a></h2>
-
-<p>The backbone of High Performance Computing and Data Science are array computing libraries.   This talk will present xtensor, an attempt to create a universal nD-container and array-computing library in C++. xtensor is a lightweight and modular framework that follows the idioms of the STL while providing an API that draws heavy inspiration from the widely used NumPy package. The library allows to operate in-place on data structures from Python, R and Julia. It is therefore an ideal library to write interpreter independent science packages. We will also discuss our usage of xsimd, a standalone library for explicit SIMD parallelization that is used to achieve high performance with xtensor.</p>
-
-<p>🎥 <strong>This talk was recorded on video and is available at <a href="https://doi.org/10.5446/42523">https://doi.org/10.5446/42523</a>.</strong></p>
-:ET
