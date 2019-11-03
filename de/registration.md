@@ -2,6 +2,7 @@
 layout: default 
 title: Registrierung
 weight: 120
+navinclude: true
 ---
 
 # Anmeldung / Registrierung

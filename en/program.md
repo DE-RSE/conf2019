@@ -2,6 +2,7 @@
 layout: default 
 title: Program
 weight: 100
+navinclude: true
 ---
 
 # Programme

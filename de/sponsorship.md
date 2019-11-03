@@ -2,6 +2,7 @@
 layout: default
 title: "Sponsorship"
 weight: 300
+navinclude: true
 ---
 
 # deRSE19 - Call for Sponsors

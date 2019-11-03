@@ -2,6 +2,7 @@
 layout: default 
 title: Registration
 weight: 120
+navinclude: true
 ---
 
 # Registration
